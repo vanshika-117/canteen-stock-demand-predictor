@@ -2,9 +2,6 @@
 
 A small inventory-planning tool for a college canteen. It reads first-hand item/day records from CSV, validates stock arithmetic, estimates next-day demand and calculates a suggested reorder quantity.
 
-## Why this exists
-[Replace with the real place, observation date and the person/role you spoke with. Do not publish a person's name or photo without permission.]
-
 ## Features
 - CSV ingestion and strict validation
 - Duplicate and invalid quantity detection
@@ -67,11 +64,6 @@ The safety factor is configurable in the sidebar. This is a simple, explainable 
 - Uses a small-history heuristic; forecasts are uncertain with limited observations.
 - The latest closing stock is assumed to be the current available stock.
 
-## Fieldwork
-[Add visit date, exact location, collection method and interview summary. Add two timestamped fieldwork photos only with appropriate permission.]
-
-## Demo video
-[Add a shareable link to your 3-minute screen recording.]
 
 ## AI use
 AI assistance was used for [truthfully describe research/coding/debugging]. The exported conversation(s) used during this work are in `ai-chats/`.
