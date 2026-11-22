@@ -64,9 +64,5 @@ The safety factor is configurable in the sidebar. This is a simple, explainable 
 - Uses a small-history heuristic; forecasts are uncertain with limited observations.
 - The latest closing stock is assumed to be the current available stock.
 
-
 ## AI use
 AI assistance was used for [truthfully describe research/coding/debugging]. The exported conversation(s) used during this work are in `ai-chats/`.
-
-## Repository
-[Add public GitHub URL after pushing.]
